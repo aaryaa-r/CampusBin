@@ -1,18 +1,10 @@
-# Welcome to your Lovable project
+# Welcome to your CampusBin project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/3e706045-2a91-4fa2-93aa-dd9df5a8ccaf
+**URL**: https://campusbin.vercel.app
 
 ## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/3e706045-2a91-4fa2-93aa-dd9df5a8ccaf) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -60,14 +52,12 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
+## Made By: 
+- Aryan
+- Shivam
+- Vivek
+- Tanisha
+- Prannoy
+- 
+## Thankyou
 
-Simply open [Lovable](https://lovable.dev/projects/3e706045-2a91-4fa2-93aa-dd9df5a8ccaf) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
